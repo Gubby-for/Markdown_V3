@@ -56,5 +56,5 @@ La puntuación refleja un buen trabajo técnico en la maquetación Markdown, org
 
 | Propuesta | Respuesta y decisión razonada | Corrección aplicada y archivo | Commit |
 | :--- | :--- | :--- | :--- |
-| **P1** | [Aceptada / Aclaración / Alternativa acordada, con explicación]. | [Qué he cambiado en cms.md y dónde]. | [Enlace]. |
-| **P2** | [Aceptada / Aclaración / Alternativa acordada, con explicación]. | [Qué he cambiado en ssg.md y dónde]. | [Enlace]. |
+| **P1** | [Aceptada]. | [añadi la tabla de la comparacion de cms ]. | [Enlace](https://github.com/Gubby-for/Markdown_V3/pull/2/changes/81f9940c767fe5014a88519b9354fde1e8194e1d). |
+| **P2** | [Aceptada]. | [Añadi la tabla de los tres tipos que se pedian]. | [Enlace](https://github.com/Gubby-for/Markdown_V3/pull/2/changes/01ea3e8bdd8259650762e0267a9d33b171012312). |
